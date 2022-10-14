@@ -8,7 +8,7 @@
 
 /* VARIABLES */
 :root{
-    --nmd-heading-font: normal 700 1em/100% nimbus-sans-extended, sans-serif;
+    --nmd-heading-font: normal 700 1em/100% Arial, sans-serif;
     font-style: normal;
     --nmd-orange: rgb(255, 101, 9);
     --nmd-orange-dull: rgb(228, 86, 3);
@@ -105,4 +105,14 @@ header{
 	display: flex;
 	flex-flow: row wrap;
 	align-items: center;
+	align-content: center;
+}
+header h1{
+	font: var(--nmd-heading-font);
+	width: 100%;
+	font-size: 2.5em;
+}
+header p{
+	width: 100%;
+	font-size: 1.5em;
 }
