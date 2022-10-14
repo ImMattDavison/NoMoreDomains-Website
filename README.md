@@ -14,4 +14,4 @@ After node is set up install the dependency as follows:
 
 - To run/test the project finally run the comand `npm start`
 
-A local instance of the app will start on `[localhost:3000](http://localhost:3000)` navigate to it in the browser
+A local instance of the app will start on `localhost:3000` navigate to it in the browser
