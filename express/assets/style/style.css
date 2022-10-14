@@ -64,6 +64,12 @@
     }
 }
 
+/* BODY */
+body{
+	background-color: var(--nmd-background);
+	color: var(--nmd-text);
+}
+
 /* CONTAINERS */
 .container {
     padding-right: 15px;
