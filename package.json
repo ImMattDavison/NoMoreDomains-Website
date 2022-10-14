@@ -4,7 +4,10 @@
   "description": "NoMoreDomains is a browser extension tool made to stop you from registering new domains. ",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js"
+    "start": "node index.js"
   },
-  "author": "github@immattdavison"
+  "author": "github@immattdavison",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
