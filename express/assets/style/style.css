@@ -99,3 +99,10 @@ body{
         max-width: 1175px;
     }
 }
+
+header{
+	min-height: 100vh;
+	display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+}
