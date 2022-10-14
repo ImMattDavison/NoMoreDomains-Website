@@ -27,13 +27,13 @@
 }
 @media (prefers-color-scheme: dark) {
     :root{
-        --nmd-background: rgb(35, 35, 35);
-        --nmd-background-dull: rgb(55, 55, 55);
+        --nmd-background: rgb(33, 33, 33);
+        --nmd-background-dull: rgb(53, 53, 53);
         --nmd-background-navbar: rgba(29, 29, 29, .8);
-        --nmd-background-navbar-dull: rgba(59, 59, 59, .8);
+        --nmd-background-navbar-dull: rgba(43, 43, 43, .8);
         --nmd-text: rgb(232, 232, 232);
         --nmd-text-navbar: rgba(255, 255, 255, .5);
-        --nmd-text-navbar-hover: #fff;
+        --nmd-text-navbar-hover: rgb(255, 255, 255);
         --nmd-primary-color: var(--nmd-orange);
         --nmd-primary-color-dull: var(--nmd-orange-dull);
         --nmd-primary-color-translucent: var(--nmd-orange-translucent);
